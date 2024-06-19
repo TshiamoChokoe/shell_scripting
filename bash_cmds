@@ -1,0 +1,16 @@
+cd : change directory
+ls : lists files in current directory
+pwd: prints working directory
+cp : copies files/directories
+mv : moves file into another directory or rename file
+cat: concatenates - displays the contents of one or more files without having to open the file itself
+less: linux terminal pager that shows a files contents one screen at a time
+grep: Global Regular Expression Print - cmd used for searching and matching text patterns
+echo: dispays lines of text in the command line
+touch: used to create a new empty file and to change the timestamps of existing files
+mkdir: creates a new directory in current working directory
+chown: change owner of file system fiels/ directories
+chmod: change mode - used to change permissions for a file or directory
+rm : removes files/directories
+man: manual page 
+--help : provies information on built-in commands
